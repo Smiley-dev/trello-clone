@@ -1,1 +1,1 @@
-# HTEC Trello JS assignment
+# Trello JS assignment
